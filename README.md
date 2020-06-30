@@ -4,4 +4,4 @@
 
 #### visit on this app and enjoy :)
 
-* https://vishalrranjan.github.io/drum-set/.
+* https://vishalrranjan.github.io/drum-set
